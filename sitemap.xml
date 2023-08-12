@@ -2,51 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sobolive.com/</loc>
-    <lastmod>2022-08-29T00:39:07-05:00</lastmod>
-  </url><url>
-    <loc>https://sobolive.com/gravura/gravados/</loc>
-    <lastmod>2022-08-29T00:39:07-05:00</lastmod>
-  </url><url>
-    <loc>https://sobolive.com/tags/gravura/</loc>
-    <lastmod>2022-08-29T00:39:07-05:00</lastmod>
-  </url><url>
-    <loc>https://sobolive.com/tags/</loc>
-    <lastmod>2022-08-29T00:39:07-05:00</lastmod>
-  </url><url>
-    <loc>https://sobolive.com/blog/exercicios/</loc>
+    <loc>https://hector0820.github.io/sobolive/blog/exercicios/</loc>
     <lastmod>2022-04-29T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sobolive.com/tags/disenho/</loc>
+    <loc>https://hector0820.github.io/sobolive/</loc>
     <lastmod>2022-04-29T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sobolive.com/tags/grafite/</loc>
+    <loc>https://hector0820.github.io/sobolive/tags/disenho/</loc>
     <lastmod>2022-04-29T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sobolive.com/tags/ilustra%C3%A7%C3%A3o/</loc>
+    <loc>https://hector0820.github.io/sobolive/tags/grafite/</loc>
     <lastmod>2022-04-29T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sobolive.com/tags/rascunho/</loc>
+    <loc>https://hector0820.github.io/sobolive/tags/ilustra%C3%A7%C3%A3o/</loc>
     <lastmod>2022-04-29T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sobolive.com/about/</loc>
+    <loc>https://hector0820.github.io/sobolive/tags/rascunho/</loc>
+    <lastmod>2022-04-29T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hector0820.github.io/sobolive/tags/</loc>
+    <lastmod>2022-04-29T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://hector0820.github.io/sobolive/about/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sobolive.com/blog/</loc>
+    <loc>https://hector0820.github.io/sobolive/blog/</loc>
     <lastmod>2019-04-29T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sobolive.com/content/</loc>
+    <loc>https://hector0820.github.io/sobolive/content/</loc>
     <lastmod>2019-04-29T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sobolive.com/gravura/</loc>
+    <loc>https://hector0820.github.io/sobolive/gravura/</loc>
     <lastmod>2019-04-29T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sobolive.com/tags/recamo/</loc>
+    <loc>https://hector0820.github.io/sobolive/tags/recamo/</loc>
     <lastmod>2019-04-29T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sobolive.com/blog/recamo/</loc>
+    <loc>https://hector0820.github.io/sobolive/blog/recamo/</loc>
     <lastmod>2019-04-29T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sobolive.com/categories/</loc>
+    <loc>https://hector0820.github.io/sobolive/categories/</loc>
   </url>
 </urlset>

@@ -2,48 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrea Sobreira de Oliveira</title>
-    <link>https://sobolive.com/</link>
+    <link>https://hector0820.github.io/sobolive/</link>
     <description>Recent content on Andrea Sobreira de Oliveira</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 29 Aug 2022 00:39:07 -0500</lastBuildDate><atom:link href="https://sobolive.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Gravados</title>
-      <link>https://sobolive.com/gravura/gravados/</link>
-      <pubDate>Mon, 29 Aug 2022 00:39:07 -0500</pubDate>
-      
-      <guid>https://sobolive.com/gravura/gravados/</guid>
-      <description> </description>
-    </item>
-    
+    <language>pt-br</language>
+    <lastBuildDate>Fri, 29 Apr 2022 09:00:00 +0000</lastBuildDate><atom:link href="https://hector0820.github.io/sobolive/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title> Ilustração Botânica</title>
-      <link>https://sobolive.com/blog/exercicios/</link>
+      <link>https://hector0820.github.io/sobolive/blog/exercicios/</link>
       <pubDate>Fri, 29 Apr 2022 09:00:00 +0000</pubDate>
       
-      <guid>https://sobolive.com/blog/exercicios/</guid>
-      <description>Estudos de Ilustração Científica Acervo da Autora Trouxe bordados que referem a questão da mulher, com algumas experiências que geralmente acontecem com as mesmas. A cor presente é o vermelho. Fiz através de uma pesquisa sobre algumas simbologias que ele tem, sobre a força do vermelho e a relação dele com a mulher. Para mim como artista, sempre trago essa cor como um representativo da mulher.
-Acervo da Autora Acervo da Autora Acervo da Autora Acervo da Autora Acervo da Autora </description>
+      <guid>https://hector0820.github.io/sobolive/blog/exercicios/</guid>
+      <description>Estudos de Ilustração Científica Acervo da Autora   Trouxe bordados que referem a questão da mulher, com algumas experiências que geralmente acontecem com as mesmas. A cor presente é o vermelho. Fiz através de uma pesquisa sobre algumas simbologias que ele tem, sobre a força do vermelho e a relação dele com a mulher. Para mim como artista, sempre trago essa cor como um representativo da mulher.
+ Acervo da Autora  Acervo da Autora  Acervo da Autora  Acervo da Autora  Acervo da Autora  </description>
     </item>
     
     <item>
       <title>Andrea Sobreira de Oliveira</title>
-      <link>https://sobolive.com/about/</link>
+      <link>https://hector0820.github.io/sobolive/about/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://sobolive.com/about/</guid>
-      <description>Nasci em Guarulhos-São Paulo mas sou residente de Juazeiro do Norte-CE. Sou graduada no curso de Licenciatura em Artes Visuais do Centro de Artes Reitora Violeta Arraes de Alencar Gervaseau da Universidade Regional do Cariri-URCA-Juazeiro do Norte-CE,e possui interesse na abordagem de arte e política, com pesquisa e experimentações voltadas à problematização da mulher como ser atuante no meio social.
-Tenho experiência na área de Artes Visuais com ênfase nas linguagens do Desenho, Pintura e HQs.</description>
+      <guid>https://hector0820.github.io/sobolive/about/</guid>
+      <description>.grid-container { width: 100%; margin-left: auto; margin-right: auto; display: inline-grid; justify-content: center; grid-template-columns: auto auto auto; gap: 10px; padding: 10px;} p { text-align: justify; }          Nasci em Guarulhos-São Paulo mas sou residente de Juazeiro do Norte-CE. Sou graduada no curso de Licenciatura em Artes Visuais do Centro de Artes Reitora Violeta Arraes de Alencar Gervaseau da Universidade Regional do Cariri-URCA-Juazeiro do Norte-CE,e possui interesse na abordagem de arte e política, com pesquisa e experimentações voltadas à problematização da mulher como ser atuante no meio social.</description>
     </item>
     
     <item>
       <title>Recamo do Feminino </title>
-      <link>https://sobolive.com/blog/recamo/</link>
+      <link>https://hector0820.github.io/sobolive/blog/recamo/</link>
       <pubDate>Mon, 29 Apr 2019 09:00:00 +0000</pubDate>
       
-      <guid>https://sobolive.com/blog/recamo/</guid>
-      <description>70º Salão de Abril Foto: Divulgação/Andréa Sobreira Trouxe bordados que referem a questão da mulher, com algumas experiências que geralmente acontecem com as mesmas. A cor presente é o vermelho. Fiz através de uma pesquisa sobre algumas simbologias que ele tem, sobre a força do vermelho e a relação dele com a mulher. Para mim como artista, sempre trago essa cor como um representativo da mulher.
-Foto: Divulgação/Andréa Sobreira Foto: Divulgação/Andréa Sobreira Foto: Divulgação/Andréa Sobreira Foto: Divulgação/Andréa Sobreira </description>
+      <guid>https://hector0820.github.io/sobolive/blog/recamo/</guid>
+      <description>70º Salão de Abril Foto: Divulgação/Andréa Sobreira   Trouxe bordados que referem a questão da mulher, com algumas experiências que geralmente acontecem com as mesmas. A cor presente é o vermelho. Fiz através de uma pesquisa sobre algumas simbologias que ele tem, sobre a força do vermelho e a relação dele com a mulher. Para mim como artista, sempre trago essa cor como um representativo da mulher.
+ Foto: Divulgação/Andréa Sobreira  Foto: Divulgação/Andréa Sobreira  Foto: Divulgação/Andréa Sobreira  Foto: Divulgação/Andréa Sobreira  </description>
     </item>
     
   </channel>
