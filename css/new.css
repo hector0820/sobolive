@@ -12,10 +12,32 @@ blockquote p {
 	font-family: 'DM Serif Display', serif;
 }
 
-img {
-	width: 85%;
-}
-
 a, a:hover {
 	color: #000
+}
+.figure-title {
+	text-transform: uppercase;
+	text-align: center;
+	display: block;
+	color: #697689;
+	font-size: 1.4rem;
+	margin-bottom: .7rem;
+
+}
+.figure{
+	width: 100%;
+	margin: 2em 0 ;
+}
+
+.figure a {
+	margin: 0;
+}
+
+.figure img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+	height: 500px;
+    width: 80%;
+	object-fit: contain	;
 }
