@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sobolive.com/blog/exercicios/</loc>
-    <lastmod>2022-04-29T09:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://sobolive.com/</loc>
+    <lastmod>2024-03-01T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sobolive.com/gravura/carro303/</loc>
+    <lastmod>2024-03-01T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sobolive.com/tags/gravura/</loc>
+    <lastmod>2024-03-01T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sobolive.com/tags/matriz/</loc>
+    <lastmod>2024-03-01T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sobolive.com/tags/</loc>
+    <lastmod>2024-03-01T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sobolive.com/blog/exercicios/</loc>
     <lastmod>2022-04-29T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sobolive.com/tags/disenho/</loc>
@@ -18,9 +30,6 @@
     <lastmod>2022-04-29T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sobolive.com/tags/rascunho/</loc>
-    <lastmod>2022-04-29T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sobolive.com/tags/</loc>
     <lastmod>2022-04-29T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sobolive.com/about/</loc>
