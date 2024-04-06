@@ -2,38 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://sobolive.com/blog/album-de-lembrancas/</loc>
+    <lastmod>2024-03-01T09:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sobolive.com/</loc>
+    <lastmod>2024-03-01T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sobolive.com/aquarela/aquarela-bot%C3%A2nica/</loc>
+    <lastmod>2024-03-01T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sobolive.com/blog/arte-bot%C3%A2nica/</loc>
     <lastmod>2024-03-01T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sobolive.com/gravura/carro303/</loc>
     <lastmod>2024-03-01T09:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://sobolive.com/gravura/corpomatriz/</loc>
+    <lastmod>2024-03-01T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sobolive.com/gravura/emburanacearensis/</loc>
+    <lastmod>2024-03-01T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sobolive.com/gravura/floracariri/</loc>
+    <lastmod>2024-03-01T09:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sobolive.com/tags/gravura/</loc>
+    <lastmod>2024-03-01T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sobolive.com/ilustracao/ilustra%C3%A7%C3%A3o-bot%C3%A2nica/</loc>
     <lastmod>2024-03-01T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sobolive.com/tags/matriz/</loc>
     <lastmod>2024-03-01T09:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://sobolive.com/blog/sutura/</loc>
+    <lastmod>2024-03-01T09:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://sobolive.com/tags/</loc>
     <lastmod>2024-03-01T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sobolive.com/blog/exercicios/</loc>
-    <lastmod>2022-04-29T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sobolive.com/tags/disenho/</loc>
-    <lastmod>2022-04-29T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sobolive.com/tags/grafite/</loc>
-    <lastmod>2022-04-29T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sobolive.com/tags/ilustra%C3%A7%C3%A3o/</loc>
-    <lastmod>2022-04-29T09:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://sobolive.com/tags/rascunho/</loc>
-    <lastmod>2022-04-29T09:00:00+00:00</lastmod>
+    <loc>https://sobolive.com/blog/terra/</loc>
+    <lastmod>2024-03-01T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sobolive.com/about/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sobolive.com/aquarela/</loc>
+    <lastmod>2019-04-29T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sobolive.com/blog/</loc>
     <lastmod>2019-04-29T09:00:00+00:00</lastmod>
@@ -42,6 +57,9 @@
     <lastmod>2019-04-29T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sobolive.com/gravura/</loc>
+    <lastmod>2019-04-29T09:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://sobolive.com/ilustracao/</loc>
     <lastmod>2019-04-29T09:00:00+00:00</lastmod>
   </url><url>
     <loc>https://sobolive.com/tags/recamo/</loc>
